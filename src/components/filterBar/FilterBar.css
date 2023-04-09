@@ -1,0 +1,26 @@
+.filter {
+    width: 300px;
+    margin-left: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: #282c34;
+    height: 100vh;
+    position: fixed;
+    right: 0;
+}
+
+.filter_button {
+    width: 200px;
+    background: #282c34;
+    height: 50px;
+    color: white;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+.title_filter {
+    color: whitesmoke;
+    font-size: 30px;
+}
